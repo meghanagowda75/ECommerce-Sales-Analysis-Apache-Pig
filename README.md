@@ -1,4 +1,4 @@
-# 📊 PULSE ANALYTICS
+# 📊 SALES ANALYTICS
 <h3 align="center">E-COMMERCE SALES INTELLIGENCE ENGINE</h3>
 
 <p align="center">
@@ -28,7 +28,7 @@
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,50:312E81,100:0891B2&height=180&section=header&text=PULSE%20ANALYTICS&fontSize=40&fontColor=FFFFFF&animation=fadeIn&desc=BIG%20DATA%20%7C%20ECOMMERCE%20%7C%20APACHE%20PIG&descSize=15&descAlignY=75"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,50:312E81,100:0891B2&height=180&section=header&text=SALES%20ANALYTICS&fontSize=40&fontColor=FFFFFF&animation=fadeIn&desc=BIG%20DATA%20%7C%20ECOMMERCE%20%7C%20APACHE%20PIG&descSize=15&descAlignY=75"/>
 </p>
 
 ## ◈ 01 — PROJECT AT A GLANCE
@@ -37,9 +37,9 @@
 <tr>
 <td width="65%" valign="top">
 
-### What is Pulse Analytics?
+### What is Sales Analytics?
 
-Pulse Analytics is an E-Commerce Sales Analysis project built using **Apache Pig on Hadoop**.
+Sales Analytics is an E-Commerce Sales Analysis project built using **Apache Pig on Hadoop**.
 
 It processes 500 transaction records and executes three analytical pipelines to extract valuable business insights.
 
