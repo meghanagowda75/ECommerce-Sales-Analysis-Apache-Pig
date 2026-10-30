@@ -766,7 +766,7 @@ Larger data volumes would require appropriate cluster resources and configuratio
 </p>
 
 <p align="center">
-  <b>Developed by Eshwar G</b>
+  <b>Developed by MEGHANA B M </b>
   <br/>
   <sub>Big Data Analytics | Apache Hadoop | Apache Pig</sub>
 </p>
